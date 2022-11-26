@@ -1,0 +1,10 @@
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.deps.json
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.json
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.dev.json
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.dll
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.pdb
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfoInputs.cache
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfo.cs
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.dll
+D:\Users\dpalje1\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.pdb
